@@ -49,10 +49,10 @@ Task posting, bidding, request system, dashboard & protected routes.
 
 ---
 
-### 🏆 GitHub Stats (Replace USERNAME with your GitHub username)
+### 🏆 GitHub Stats 
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME](https://github.com/fouzia65)&show_icons=true&theme=react)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&the)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME](https://github.com/fouzia65)&layout=compact&the)
