@@ -51,8 +51,22 @@ Task posting, bidding, request system, dashboard & protected routes.
 
 ### 🏆 GitHub Stats 
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fouzia65&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouzia65&layout=compact&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouzia65&theme=react" />
+</p>
+### 🤝 Connect With Me  
+📧 Email:fouziarahman64@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/fouzia-rahman7/ 
+🌐 Portfolio:https://celadon-otter-842d31.netlify.app/
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME](https://github.com/fouzia65)&show_icons=true&theme=react)
+---
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME](https://github.com/fouzia65)&layout=compact&the)
+### ✨ Fun Fact  
+“I enjoy converting ideas into functional MERN applications.”
+
+---
+
+### ⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and give a star ⭐ if you like my work.
